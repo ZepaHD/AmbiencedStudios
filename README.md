@@ -12,9 +12,9 @@ Thanks for Visiting our Page!
 Download Guide DEUTSCH:
 
 Geh einfach auf den Ambienced-Discord: https://discord.gg/ZM77BnbHYd 
-oder besuche die Itch.io-Website (siehe rechts).
+oder besuche die Itch.io-Website (siehe rechts), Dort findest du die .exe-Datei.
 
-Dort findest du die .exe-Datei. Warum kann ich es nicht hier herunterladen?
+Warum kann ich es nicht hier herunterladen?
 Weil die Datei zu groß ist; wir arbeiten jedoch daran, eine Einbettung für Steam oder andere Download-Optionen bereitzustellen.
 Wenn du uns unterstützen möchtest, 
 kannst du unserem offiziellen Discord-Server beitreten! 
