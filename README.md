@@ -12,7 +12,7 @@ Thanks for Visiting our Page!
 
 
 
-Download Guide DEUTSCH:
+*Download Guide DEUTSCH:*
 
 Geh einfach auf den Ambienced-Discord: https://discord.gg/ZM77BnbHYd 
 oder besuche die Itch.io-Website (siehe rechts), Dort findest du die .exe-Datei.
