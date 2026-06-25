@@ -1,4 +1,5 @@
 Download Guide ENGLISH:
+
 Just go on the Ambienced Discord: https://discord.gg/ZM77BnbHYd or 
 Visit the Itch.io Website at the right. There you can find the .exe.
 
@@ -8,6 +9,8 @@ we can get a steam / other Download Embed.
 
 If you wanna help us you can Join our Official Discordserver!
 Thanks for Visiting our Page!
+
+
 
 Download Guide DEUTSCH:
 
